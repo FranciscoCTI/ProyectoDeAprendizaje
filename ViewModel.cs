@@ -1,10 +1,11 @@
-public class ViewModelGeneral
+//Esta es la clase para el viewModel
+public class ViewModelEnGeneral
 {
-    public ViewModelGeneral()
+    public ViewModelEnGeneral()
     {
 
 
     }
 
-}
+}//Bla
 
