@@ -9,3 +9,9 @@ public class ViewModelEnGeneral
 
 }//Bla bla
 
+public class clase
+{
+
+    
+}
+
